@@ -6,4 +6,4 @@ y not
 
 I am me:
 personal information, personal information 2, personal info #3
-![alt text :D]()]
+![alt text :D](https://github.com/SkysBane/my-first-repo/blob/profile-picture/2025-10-08_13.08.16.png)]
